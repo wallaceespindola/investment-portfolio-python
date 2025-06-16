@@ -1,2 +1,2 @@
 # investment-portfolio-python
-Investments Portifolio Simulations in Python
+Investments Portfolio Simulations in Python
